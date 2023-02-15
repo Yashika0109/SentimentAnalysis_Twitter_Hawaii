@@ -1,1 +1,1 @@
-•	Cleaned data, parsed, and created sentiment analysis using twitter API to find key words that describe the feelings of tweets towards the famous travel destination, Hawaii, USA. This project was completed with two other team members; Shijie Yu and Eric Zhang.
+Cleaned data, parsed, and created sentiment analysis using twitter API to find key words that describe the feelings of tweets towards the famous travel destination, Hawaii, USA. This project was completed with two other team members; Shijie Yu and Eric Zhang.
